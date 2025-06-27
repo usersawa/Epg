@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="مثال يدوي" generator-info-url="http://example.com">
+    
+    <!-- القنوات -->
+    <channel id="Abu Dhabi Drama">
+        <display-name lang="ar">Abu Dhabi Drama</display-name>
+        <url>http://www.elcinema.com</url>
+    </channel>
+
+    <channel id="رؤيـــا">
+        <display-name lang="ar">رؤيـــا</display-name>
+        <url>http://www.elcinema.com</url>
+    </channel>
+    <channel id="الأردنية">
+        <display-name lang="ar">الأردنية</display-name>
+        <url>http://www.elcinema.com</url>
+    </channel>
+	
+    <!-- البرامج الخاصة بـ Abu Dhabi Drama -->
+    <programme start="20250627135700 +0200 " stop="20250627145700 +0200" channel="Abu Dhabi Drama">
+        <title lang="ar">مسلسل درامي</title>
+        <desc lang="ar">قصة مثيرة عن الحب والتضحية.</desc>
+    </programme>
+
+    <programme start="20250627145900 +0200" stop="20250627225700 +0200" channel="Abu Dhabi Drama">
+        <title lang="ar">نشرة الأخبار</title>
+        <desc lang="ar">آخر المستجدات المحلية والعالمية.</desc>
+    </programme>
+
+    <!-- البرامج الخاصة بـ Al Kahera Wal Nas TV -->
+    <programme start="20250627160000 +0200" stop="20250627170000 +0200" channel="رؤيـــا">
+        <title lang="ar">برنامج??? صباحي</title>
+        <desc lang="ar">صباح الخي$$$ر مع فقرات منوعة.</desc>
+    </programme>
+
+    <programme start="20250626090000 +0000" stop="20250626100000 +0000" channel="Al Kahera Wal Nas TV">
+        <title lang="ar">فيلم وثائقي</title>
+        <desc lang="ar">رحلة إلى أعماق البحار.</desc>
+    </programme>
+    
+	  <programme start="20250627160000 +0200" stop="20250627170000 +0200" channel="الأردنية">
+        <title lang="ar">تجربة القناة</title>
+        <desc lang="ar">تجربة الدليل</desc>
+    </programme>
+</tv>
