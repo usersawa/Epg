@@ -17,7 +17,7 @@
     </channel>
 	
     <!-- البرامج الخاصة بـ Abu Dhabi Drama -->
-    <programme start="20250627135700 +0200 " stop="20250627145700 +0200" channel="Abu Dhabi Drama">
+    <programme start="20250627135700 +0200 " stop="20250629145700 +0200" channel="Abu Dhabi Drama">
         <title lang="ar">مسلسل درامي</title>
         <desc lang="ar">قصة مثيرة عن الحب والتضحية.</desc>
     </programme>
@@ -28,8 +28,8 @@
     </programme>
 
     <!-- البرامج الخاصة بـ Al Kahera Wal Nas TV -->
-    <programme start="20250627160000 +0200" stop="20250627170000 +0200" channel="رؤيـــا">
-        <title lang="ar">برنامج??? صباحي</title>
+    <programme start="20250627160000 +0200" stop="20250629170000 +0200" channel="رؤيـــا">
+        <title lang="ar">برنامج وعد شهد </title>
         <desc lang="ar">صباح الخي$$$ر مع فقرات منوعة.</desc>
     </programme>
 
@@ -38,7 +38,7 @@
         <desc lang="ar">رحلة إلى أعماق البحار.</desc>
     </programme>
     
-	  <programme start="20250627160000 +0200" stop="20250627170000 +0200" channel="الأردنية">
+	  <programme start="20250627160000 +0200" stop="20250629170000 +0200" channel="الأردنية">
         <title lang="ar">تجربة القناة</title>
         <desc lang="ar">تجربة الدليل</desc>
     </programme>
