@@ -162,7 +162,46 @@
     <title lang="ar">أبو جانتي
 
 <!-- البرامج الخاصة بـ Lana لـــنـــا -->
-   
+   <programme start="20250628150000 +0200" stop="20250628155700 +0200" channel="Lana لـــنـــا">
+    <title lang="ar">مسلسل درامي</title>
+    <desc lang="ar">فرصة العمر</desc>
+</programme>
+<programme start="20250628160000 +0200" stop="20250628165700 +0200" channel="Lana لـــنـــا">
+    <title lang="ar">مسلسل درامي</title>
+    <desc lang="ar">الكرزون</desc>
+</programme>
+<programme start="20250628170000 +0200" stop="20250628175700 +0200" channel="Lana لـــنـــا">
+    <title lang="ar">مسلسل درامي</title>
+    <desc lang="ar">الصديقات</desc>
+</programme>
+<programme start="20250628190000 +0200" stop="20250628195700 +0200" channel="Lana لـــنـــا">
+    <title lang="ar">مسلسل درامي</title>
+    <desc lang="ar">الانتظار</desc>
+</programme>
+<programme start="20250628200000 +0200" stop="20250628205700 +0200" channel="Lana لـــنـــا">
+    <title lang="ar">مسلسل درامي</title>
+    <desc lang="ar">على قيد الحب</desc>
+</programme>
+<programme start="20250629150000 +0200" stop="20250629155700 +0200" channel="Lana لـــنـــا">
+    <title lang="ar">مسلسل درامي</title>
+    <desc lang="ar">فرصة العمر</desc>
+</programme>
+<programme start="20250629160000 +0200" stop="20250629165700 +0200" channel="Lana لـــنـــا">
+    <title lang="ar">مسلسل درامي</title>
+    <desc lang="ar">الكرزون</desc>
+</programme>
+<programme start="20250629170000 +0200" stop="20250629175700 +0200" channel="Lana لـــنـــا">
+    <title lang="ar">مسلسل درامي</title>
+    <desc lang="ar">الصديقات</desc>
+</programme>
+<programme start="20250629190000 +0200" stop="20250629195700 +0200" channel="Lana لـــنـــا">
+    <title lang="ar">مسلسل درامي</title>
+    <desc lang="ar">الانتظار</desc>
+</programme>
+<programme start="20250629200000 +0200" stop="20250629205700 +0200" channel="Lana لـــنـــا">
+    <title lang="ar">مسلسل درامي</title>
+    <desc lang="ar">على قيد الحب</desc>
+</programme>
 <!-- الاثنين 30 يونيو -->
 <programme start="20250630100000 +0200" stop="20250630110000 +0200" channel="ltv">
   <title lang="ar">فرصة العمر</title>
