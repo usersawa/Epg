@@ -8,43 +8,43 @@
   </channel>
 
   <!-- السبت 28 يونيو 2025 -->
-  <programme start="20250628170000 +0000" stop="20250628180000 +0000" channel="الثانية">
+  <programme start="20250628190000 +0200" stop="20250628200000 +0200" channel="الثانية">
     <title lang="ar">طوق البنات</title>
     <desc lang="ar">مسلسل درامي.</desc>
   </programme>
-  <programme start="20250628210000 +0000" stop="20250628220000 +0000" channel="الثانية">
+  <programme start="20250628210000 +0200" stop="20250628220000 +0200" channel="الثانية">
     <title lang="ar">كسر عضم</title>
     <desc lang="ar">مسلسل درامي.</desc>
   </programme>
-  <programme start="20250628220000 +0000" stop="20250628230000 +0000" channel="الثانية">
+  <programme start="20250628220000 +0200" stop="20250628230000 +0200" channel="الثانية">
     <title lang="ar">محكوم</title>
     <desc lang="ar">مسلسل درامي.</desc>
   </programme>
 
   <!-- الأحد 29 يونيو 2025 -->
-  <programme start="20250629170000 +0000" stop="20250629180000 +0000" channel="الثانية">
+  <programme start="20250629190000 +0200" stop="20250629200000 +0200" channel="الثانية">
     <title lang="ar">طوق البنات</title>
     <desc lang="ar">مسلسل درامي.</desc>
   </programme>
-  <programme start="20250629190000 +0000" stop="20250629200000 +0000" channel="الثانية">
+  <programme start="20250629210000 +0200" stop="20250629220000 +0200" channel="الثانية">
     <title lang="ar">كسر عضم</title>
     <desc lang="ar">مسلسل درامي.</desc>
   </programme>
-  <programme start="20250629200000 +0000" stop="20250629210000 +0000" channel="الثانية">
+  <programme start="20250629220000 +0200" stop="20250629230000 +0200" channel="الثانية">
     <title lang="ar">محكوم</title>
     <desc lang="ar">مسلسل درامي.</desc>
   </programme>
 
   <!-- الاثنين 30 يونيو 2025 -->
-  <programme start="20250630170000 +0000" stop="20250630180000 +0000" channel="الثانية">
+  <programme start="20250630190000 +0200" stop="20250630200000 +0200" channel="الثانية">
     <title lang="ar">طوق البنات</title>
     <desc lang="ar">مسلسل درامي.</desc>
   </programme>
-  <programme start="20250630190000 +0000" stop="20250630200000 +0000" channel="الثانية">
+  <programme start="20250630210000 +0200" stop="20250630220000 +0200" channel="الثانية">
     <title lang="ar">كسر عضم</title>
     <desc lang="ar">مسلسل درامي.</desc>
   </programme>
-  <programme start="20250630200000 +0000" stop="20250630210000 +0000" channel="الثانية">
+  <programme start="20250630220000 +0200" stop="20250630230000 +0200" channel="الثانية">
     <title lang="ar">محكوم</title>
     <desc lang="ar">مسلسل درامي.</desc>
   </programme>
