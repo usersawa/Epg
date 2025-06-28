@@ -163,63 +163,47 @@
 
 <!-- البرامج الخاصة بـ Lana لـــنـــا -->
    
-<programme start="20250628150000 +0200" stop="20250628155700 +0200" channel="Lana لـــنـــا">
-    <title lang="ar">مسلسل درامي</title>
-    <desc lang="ar">فرصة العمر</desc>
+<!-- الاثنين 30 يونيو -->
+<programme start="20250630100000 +0200" stop="20250630110000 +0200" channel="ltv">
+  <title lang="ar">فرصة العمر</title>
+  <desc lang="ar">مسلسل درامي اجتماعي.</desc>
 </programme>
-<programme start="20250629150000 +0200" stop="20250629155700 +0200" channel="Lana لـــنـــا">
-    <title lang="ar">مسلسل درامي</title>
-    <desc lang="ar">الكرزون</desc>
+<programme start="20250630110000 +0200" stop="20250630120000 +0200" channel="ltv">
+  <title lang="ar">الكرزون</title>
+  <desc lang="ar">دراما عائلية معاصرة.</desc>
 </programme>
-<programme start="20250630150000 +0200" stop="20250630155700 +0200" channel="Lana لـــنـــا">
-    <title lang="ar">مسلسل درامي</title>
-    <desc lang="ar">الصديقات</desc>
-</programme>
-<programme start="20250701150000 +0200" stop="20250701155700 +0200" channel="Lana لـــنـــا">
-    <title lang="ar">مسلسل درامي</title>
-    <desc lang="ar">الانتظار</desc>
-</programme>
-<programme start="20250702150000 +0200" stop="20250702155700 +0200" channel="Lana لـــنـــا">
-    <title lang="ar">مسلسل درامي</title>
-    <desc lang="ar">على قيد الحب</desc>
-</programme>
-<programme start="20250703150000 +0200" stop="20250703155700 +0200" channel="Lana لـــنـــا">
-    <title lang="ar">مسلسل درامي</title>
-    <desc lang="ar">أحلام كبيرة</desc>
-</programme>
-<programme start="20250704150000 +0200" stop="20250704155700 +0200" channel="الثانية">
-    <title lang="ar">مسلسل درامي</title>
-    <desc lang="ar">ولادة من الخاصرة</desc>
-</programme>
-<programme start="20250705150000 +0200" stop="20250705155700 +0200" channel="Lana لـــنـــا">
-    <title lang="ar">مسلسل درامي</title>
-    <desc lang="ar">الغفران</desc>
-</programme>
-<programme start="20250706150000 +0200" stop="20250706155700 +0200" channel="Lana لـــنـــا">
-    <title lang="ar">مسلسل درامي</title>
-    <desc lang="ar">سنعود بعد قليل</desc>
-</programme>
-<programme start="20250707150000 +0200" stop="20250707155700 +0200" channel="Lana لـــنـــا">
-    <title lang="ar">مسلسل درامي</title>
-    <desc lang="ar">حرائر</desc>
-</programme>
-<programme start="20250708150000 +0200" stop="20250708155700 +0200" channel="Lana لـــنـــا">
-    <title lang="ar">مسلسل درامي</title>
-    <desc lang="ar">عصر الجنون</desc>
-</programme>
-<programme start="20250709150000 +0200" stop="20250709155700 +0200" channel="الثانية">
-    <title lang="ar">مسلسل درامي</title>
-    <desc lang="ar">قلم حمرة</desc>
-</programme>
-<programme start="20250710150000 +0200" stop="20250710155700 +0200" channel="Lana لـــنـــا">
-    <title lang="ar">مسلسل درامي</title>
-    <desc lang="ar">زمن العار</desc>
-</programme>
-<programme start="20250711150000 +0200" stop="20250711155700 +0200" channel="Lana لـــنـــا">
-    <title lang="ar">مسلسل درامي</title>
-    <desc lang="ar">تخت شرقي</desc>
+<programme start="20250630190000 +0200" stop="20250630200000 +0200" channel="ltv">
+  <title lang="ar">باب الحارة ج13</title>
+  <desc lang="ar">استمرار ملحمة الحارة الشامية.</desc>
 </programme>
 
+<!-- الثلاثاء 1 يوليو -->
+<programme start="20250701100000 +0200" stop="20250701110000 +0200" channel="ltv">
+  <title lang="ar">الانتظار</title>
+  <desc lang="ar">مسلسل عن طبقة المهمشين.</desc>
+</programme>
+<programme start="20250701190000 +0200" stop="20250701200000 +0200" channel="ltv">
+  <title lang="ar">على قيد الحب</title>
+  <desc lang="ar">علاقات الحب والصداقة في بيئة حضرية.</desc>
+</programme>
+
+<!-- الأربعاء 2 يوليو -->
+<programme start="20250702190000 +0200" stop="20250702200000 +0200" channel="ltv">
+  <title lang="ar">كسر عضم</title>
+  <desc lang="ar">دراما سياسية اجتماعية حادة.</desc>
+</programme>
+
+<!-- الخميس 3 يوليو -->
+<programme start="20250703190000 +0200" stop="20250703200000 +0200" channel="ltv">
+  <title lang="ar">الصديقات</title>
+  <desc lang="ar">مسلسل عن العلاقات النسائية والصداقات.</desc>
+</programme>
+
+<!-- الجمعة 4 يوليو -->
+<programme start="20250704190000 +0200" stop="20250704200000 +0200" channel="ltv">
+  <title lang="ar">ولادة من الخاصرة</title>
+  <desc lang="ar">قضايا الطبقات والسلطة في المجتمع السوري.</desc>
+</programme>
 <!-- البرامج الخاصة بـ Abu Dhabi Drama -->
 
     <programme start="20250627135700 +0200 " stop="20250627145700 +0200" channel="Abu Dhabi Drama">
