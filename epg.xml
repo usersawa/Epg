@@ -1,170 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="مثال يدوي" generator-info-url="http://example.com">
-    
-    <!-- القنوات -->
+<tv generator-info-name="دليل مخصص" generator-info-url="http://example.com">
 
+  <!-- تعريف القناة -->
   <channel id="الثانية">
-        <display-name lang="ar">الثانية</display-name>
-        <url>http://www.elcinema.com</url>
-    </channel>
-
-  <channel id="Lana لـــنـــا">
-        <display-name lang="ar">Lana لـــنـــا</display-name>
-        <url>http://www.elcinema.com</url>
-    </channel>
-
-    <channel id="Abu Dhabi Drama">
-        <display-name lang="ar">Abu Dhabi Drama</display-name>
-        <url>http://www.elcinema.com</url>
-    </channel>
-
-    <channel id="رؤيـــا">
-        <display-name lang="ar">رؤيـــا</display-name>
-        <url>http://www.elcinema.com</url>
-    </channel>
-    <channel id="الأردنية">
-        <display-name lang="ar">الأردنية</display-name>
-        <url>http://www.elcinema.com</url>
-    </channel>
-	
- <!-- البرامج الخاصة بـ الثانية -->
-
-<tv>
+    <display-name lang="ar">الثانية</display-name>
+    <url>http://www.example.com</url>
+  </channel>
 
   <!-- السبت 28 يونيو 2025 -->
-  <programme start="20250628103000 +0000" stop="20250628110000 +0000" channel="الثانية">
-    <title lang="ar">برنامج</title>
-    <desc lang="ar">برنامج متنوع صباحي.</desc>
-  </programme>
-  <programme start="20250628110000 +0000" stop="20250628120000 +0000" channel="الثانية">
-    <title lang="ar">أخبار</title>
-    <desc lang="ar">النشرة الإخبارية.</desc>
-  </programme>
-  <programme start="20250628120000 +0000" stop="20250628130000 +0000" channel="الثانية">
-    <title lang="ar">برنامج</title>
-    <desc lang="ar">فقرة متنوعة.</desc>
-  </programme>
-  <programme start="20250628130000 +0000" stop="20250628140000 +0000" channel="الثانية">
-    <title lang="ar">محكوم ج2</title>
-    <desc lang="ar">مسلسل درامي (2022).</desc>
-  </programme>
-  <programme start="20250628140000 +0000" stop="20250628150000 +0000" channel="الثانية">
-    <title lang="ar">برنامج</title>
-    <desc lang="ar">فقرة متنوعة بعد الظهر.</desc>
-  </programme>
-  <programme start="20250628150000 +0000" stop="20250628160000 +0000" channel="الثانية">
-    <title lang="ar">أبو جانتي: ملك التكسي</title>
-    <desc lang="ar">مسلسل درامي (2010).</desc>
-  </programme>
-  <programme start="20250628160000 +0000" stop="20250628170000 +0000" channel="الثانية">
-    <title lang="ar">لعنة الطين</title>
-    <desc lang="ar">مسلسل درامي (2010).</desc>
-  </programme>
   <programme start="20250628170000 +0000" stop="20250628180000 +0000" channel="الثانية">
-    <title lang="ar">طوق البنات ج3</title>
-    <desc lang="ar">مسلسل درامي (2015).</desc>
-  </programme>
-  <programme start="20250628180000 +0000" stop="20250628190000 +0000" channel="الثانية">
-    <title lang="ar">أخبار</title>
-    <desc lang="ar">النشرة المسائية.</desc>
+    <title lang="ar">طوق البنات</title>
+    <desc lang="ar">مسلسل درامي.</desc>
   </programme>
   <programme start="20250628190000 +0000" stop="20250628200000 +0000" channel="الثانية">
-    <title lang="ar">كسر عضم ج2: السراديب</title>
-    <desc lang="ar">مسلسل درامي (2024).</desc>
+    <title lang="ar">كسر عضم</title>
+    <desc lang="ar">مسلسل درامي.</desc>
   </programme>
   <programme start="20250628200000 +0000" stop="20250628210000 +0000" channel="الثانية">
-    <title lang="ar">محكوم ج2</title>
-    <desc lang="ar">مسلسل درامي (2022).</desc>
-  </programme>
-  <programme start="20250628210000 +0000" stop="20250628220000 +0000" channel="الثانية">
-    <title lang="ar">برنامج</title>
-    <desc lang="ar">فقرة تلفزيونية مسائية.</desc>
+    <title lang="ar">محكوم</title>
+    <desc lang="ar">مسلسل درامي.</desc>
   </programme>
 
   <!-- الأحد 29 يونيو 2025 -->
-  <programme start="20250628230000 +0000" stop="20250628230000 +0000" channel="الثانية">
-    <title lang="ar">الولادة من الخاصرة 3</title>
-    <desc lang="ar">مسلسل درامي (2013).</desc>
+  <programme start="20250629170000 +0000" stop="20250629180000 +0000" channel="الثانية">
+    <title lang="ar">طوق البنات</title>
+    <desc lang="ar">مسلسل درامي.</desc>
   </programme>
-  <programme start="20250628230000 +0000" stop="20250628230000 +0000" channel="الثانية">
-    <title lang="ar">طوق البنات ج3</title>
-    <desc lang="ar">مسلسل درامي (2015).</desc>
+  <programme start="20250629190000 +0000" stop="20250629200000 +0000" channel="الثانية">
+    <title lang="ar">كسر عضم</title>
+    <desc lang="ar">مسلسل درامي.</desc>
   </programme>
-  <programme start="20250628230000 +0000" stop="20250628230000 +0000" channel="الثانية">
-    <title lang="ar">برنامج</title>
-    <desc lang="ar">فقرة ثقافية وترفيهية.</desc>
-  </programme>
-  <programme start="20250628230000 +0000" stop="20250629030000 +0000" channel="الثانية">
-    <title lang="ar">كسر عضم ج2: السراديب</title>
-    <desc lang="ar">مسلسل درامي (2024).</desc>
-  </programme>
-  <programme start="20250629030000 +0000" stop="20250629040000 +0000" channel="الثانية">
-    <title lang="ar">برنامج</title>
-    <desc lang="ar">فقرات صباحية متنوعة.</desc>
-  </programme>
-  <programme start="20250629070000 +0000" stop="20250629080000 +0000" channel="الثانية">
-    <title lang="ar">أبو جانتي: ملك التكسي</title>
-    <desc lang="ar">مسلسل درامي (2010).</desc>
-  </programme>
-  <programme start="20250629080000 +0000" stop="20250629090000 +0000" channel="الثانية">
-    <title lang="ar">الولادة من الخاصرة 3</title>
-    <desc lang="ar">مسلسل درامي (2013).</desc>
-  </programme>
-</tv>
-
-<!-- البرامج الخاصة بـ Lana لـــنـــا -->
-
-  <!-- السبت 28 يونيو 2025 -->
-  <programme start="20250628090000 +0000" stop="20250628100000 +0000" channel="Lana لـــنـــا">
-    <title lang="ar">Take Care</title>
-    <desc lang="ar">برنامج اجتماعي.</desc>
-  </programme>
-  <programme start="20250628100000 +0000" stop="20250628110000 +0000" channel="Lana لـــنـــا">
-    <title lang="ar">الانتظار</title>
-    <desc lang="ar">مسلسل درامي (2006).</desc>
-  </programme>
-  <programme start="20250628110000 +0000" stop="20250628120000 +0000" channel="Lana لـــنـــا">
-    <title lang="ar">على قيد الحب</title>
-    <desc lang="ar">مسلسل درامي (2022).</desc>
-  </programme>
-  <programme start="20250628120000 +0000" stop="20250628130000 +0000" channel="Lana لـــنـــا">
-    <title lang="ar">Take Care</title>
-    <desc lang="ar">إعادة برنامج اجتماعي.</desc>
-  </programme>
-  <programme start="20250628130000 +0000" stop="20250628140000 +0000" channel="Lana لـــنـــا">
-    <title lang="ar">ولادة من الخاصرة</title>
-    <desc lang="ar">مسلسل درامي (2011).</desc>
-  </programme>
-
-  <!-- الأحد 29 يونيو 2025 -->
-  <programme start="20250629100000 +0000" stop="20250629110000 +0000" channel="Lana لـــنـــا">
-    <title lang="ar">Take Care</title>
-    <desc lang="ar">برنامج اجتماعي.</desc>
-  </programme>
-  <programme start="20250629110000 +0000" stop="20250629120000 +0000" channel="Lana لـــنـــا">
-    <title lang="ar">الانتظار</title>
-    <desc lang="ar">مسلسل درامي (2006).</desc>
-  </programme>
-  <programme start="20250629120000 +0000" stop="20250629130000 +0000" channel="Lana لـــنـــا">
-    <title lang="ar">على قيد الحب</title>
-    <desc lang="ar">مسلسل درامي (2022).</desc>
-  </programme>
-  <programme start="20250629130000 +0000" stop="20250629140000 +0000" channel="Lana لـــنـــا">
-    <title lang="ar">Take Care</title>
-    <desc lang="ar">إعادة برنامج اجتماعي.</desc>
-  </programme>
-  <programme start="20250629140000 +0000" stop="20250629150000 +0000" channel="Lana لـــنـــا">
-    <title lang="ar">ولادة من الخاصرة</title>
-    <desc lang="ar">مسلسل درامي (2011).</desc>
+  <programme start="20250629200000 +0000" stop="20250629210000 +0000" channel="الثانية">
+    <title lang="ar">محكوم</title>
+    <desc lang="ar">مسلسل درامي.</desc>
   </programme>
 
   <!-- الاثنين 30 يونيو 2025 -->
-  <programme start="20250630100000 +0000" stop="20250630110000 +0000" channel="Lana لـــنـــا">
-    <title lang="ar">Take Care</title>
-    <desc lang="ar">برنامج اجتماعي.</desc>
+  <programme start="20250630170000 +0000" stop="20250630180000 +0000" channel="الثانية">
+    <title lang="ar">طوق البنات</title>
+    <desc lang="ar">مسلسل درامي.</desc>
   </programme>
-  <programme start="20250630110000 +0000" stop="20250630120000 +0000" channel="Lana لـــنـــا">
-    <title lang="ar">الانتظار</title>
-    <desc lang="ar">مسلسل درامي (2006).</desc>
+  <programme start="20250630190000 +0000" stop="20250630200000 +0000" channel="الثانية">
+    <title lang="ar">كسر عضم</title>
+    <desc lang="ar">مسلسل درامي.</desc>
   </programme>
-  <programme start="20250630120000
+  <programme start="20250630200000 +0000" stop="20250630210000 +0000" channel="الثانية">
+    <title lang="ar">محكوم</title>
+    <desc lang="ar">مسلسل درامي.</desc>
+  </programme>
+
+</tv>
