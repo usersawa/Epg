@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <tv><channel id="الثانية">
-  <display-name>الثانية</display-name>
+  <display-name lang="ar">الثانية</display-name>
 </channel>
   <programme start="20250701190000+0000" stop="20250701194500+0000" channel="الثانية">
     <title>كسر عظم </title><desc>مسلسل </desc></programme>
