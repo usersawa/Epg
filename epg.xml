@@ -4,6 +4,12 @@
 
 <tv>
 
+   <channel id="الأردنية">
+
+    <display-name lang="ar">الأردنية</display-name>
+
+  </channel>
+
   <channel id="الثانية">
 
     <display-name lang="ar">الثانية</display-name>
@@ -25,12 +31,7 @@
     <desc>لا يختار</desc>
 
   </programme>
- <channel id="الأردنية">
-
-    <display-name lang="ar">الأردنية</display-name>
-
-  </channel>
-
+  
   <programme start="20250701220000 +0300" stop="20250701230000 +0300" channel="الأردنية">
 
     <title>تجربة قناة الأردنية</title>
