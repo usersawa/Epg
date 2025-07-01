@@ -10,9 +10,17 @@
 
   </channel>
 
-  <programme start="20250701220000 +0400" stop="20250701230000 +0400" channel="الثانية">
+  <programme start="20250701220000 +0000" stop="20250701230000 +0000" channel="الثانية">
 
     <title>تجربة واحد</title>
+
+    <desc>لا يختار</desc>
+
+  </programme>
+
+  <programme start="20250701230000 +0000" stop="20250701240000 +0000" channel="الثانية">
+
+    <title>تجربة 2</title>
 
     <desc>لا يختار</desc>
 
