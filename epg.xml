@@ -1,9 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<tv><channel id="الثانية">
-  <display-name lang="ar">الثانية</display-name>
-</channel>
-  <programme start="20250701190000+0200" stop="20250701194500+0200" channel="الثانية">
-    <title>كسر عظم </title><desc>مسلسل </desc></programme>
-  <programme start="20250702190000+0200" stop="20250702194500+0200" channel="الثانية">
-    <title>كسر عضم </title><desc>مسلسل </desc></programme>
-</tv>
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><tv><channel id="الثانية"><display-name lang="ar">الثانية </display-name></channel><programme start="20250701210000+0200" stop="20250701220000+0200" channel="الثانية"><title>علي</title><desc>مسلسل </desc></programme></tv>
