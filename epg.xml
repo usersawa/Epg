@@ -9,7 +9,7 @@
     </channel>
 
   <channel id="Lana لـــنـــا">
-        <display-name lang="ar">الأردنية</display-name>
+        <display-name lang="ar">Lana لـــنـــا</display-name>
         <url>http://www.elcinema.com</url>
     </channel>
 
@@ -159,7 +159,7 @@
     <desc lang="ar">مسلسل درامي يدور حول الحب والتضحيات.</desc>
   </programme>
   <programme start="20250701150000 +0200" stop="20250701155700 +0200" channel="الثانية">
-    <title lang="ar">أبو جانتي
+    <title lang="ar">أبو جانتي</title>
 
 <!-- البرامج الخاصة بـ Lana لـــنـــا -->
    
@@ -232,15 +232,9 @@
         <desc lang="ar">آخر المستجدات المحلية والعالمية.</desc>
     </programme>
 
-    <!-- البرامج الخاصة بـ Al Kahera Wal Nas TV -->
     <programme start="20250627160000 +0200" stop="20250627170000 +0200" channel="رؤيـــا">
         <title lang="ar">برنامج??? صباحي</title>
         <desc lang="ar">صباح الخي$$$ر مع فقرات منوعة.</desc>
-    </programme>
-
-    <programme start="20250626090000 +0200" stop="20250626100000 +0200" channel="Al Kahera Wal Nas TV">
-        <title lang="ar">فيلم وثائقي</title>
-        <desc lang="ar">رحلة إلى أعماق البحار.</desc>
     </programme>
     
 	  <programme start="20250627160000 +0200" stop="20250627170000 +0200" channel="الأردنية">
