@@ -15,6 +15,12 @@
   </channel>
   <channel id="رؤيا دراما">
     <display-name lang="ar">رؤيا دراما</display-name>
+</channel>
+<channel id="رؤيـــا كوميدي">
+    <display-name lang="ar">رؤيـــا كوميدي</display-name>
+  </channel>
+
+
 
 <tv>
   <programme start="20250706000000 +0200" stop="20250706010000 +0200" channel="الثانية">
