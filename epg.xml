@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <tv>
 <channel id="الثانية">
 <display-name>الثانية</display-name>
@@ -796,7 +796,7 @@
 <title>مسلسل</title>
 </programme>
 <programme start="20250722190000 +0200" stop="20250722200000 +0200" channel="Lana لـــنـــا">
-<title />
+<title></title>
 </programme>
 <programme start="20250722200000 +0200" stop="20250722210000 +0200" channel="Lana لـــنـــا">
 <title>مسلسل</title>
@@ -1132,7 +1132,7 @@
 <title>مسلسل</title>
 </programme>
 <programme start="20250720110000 +0200" stop="20250720120000 +0200" channel="رؤيـــا">
-<title>مسلسل</title>
+<title>برامج</title>
 </programme>
 <programme start="20250720120000 +0200" stop="20250720130000 +0200" channel="رؤيـــا">
 <title>مسلسل</title>
