@@ -22,70 +22,72 @@
 <display-name>MBC1</display-name>
 </channel>
 <tv>
-<programme start="20260308183000 +0000" stop="20260308184500 +0000" channel="MBC1">
+
+<programme start="20260308183000 +2000" stop="20260308184500 +0000" channel="MBC1">
 <title lang="ar">رامز ليفل الوحش</title>
 <desc lang="ar">برنامج على القناة</desc>
 </programme>
-<programme start="20260308020000 +0000" stop="20260308021500 +0000" channel="MBC1">
+<programme start="20260308020000 +2000" stop="20260308021500 +0000" channel="MBC1">
 <title lang="ar">رامز ليفل الوحش</title>
 <desc lang="ar">برنامج على القناة</desc>
 </programme>
-<programme start="20260308023000 +0000" stop="20260308024500 +0000" channel="MBC1">
+<programme start="20260308023000 +2000" stop="20260308024500 +0000" channel="MBC1">
 <title lang="ar">مالك بالطويلة</title>
 <desc lang="ar">برنامج على القناة</desc>
 </programme>
-<programme start="20260308030000 +0000" stop="20260308031500 +0000" channel="MBC1">
+<programme start="20260308030000 +2000" stop="20260308031500 +0000" channel="MBC1">
 <title lang="ar">افطارنا غير</title>
 <desc lang="ar">برنامج على القناة</desc>
 </programme>
-<programme start="20260308133000 +0000" stop="20260308134500 +0000" channel="MBC1">
+<programme start="20260308133000 +2000" stop="20260308134500 +0000" channel="MBC1">
 <title lang="ar">رامز ليفل الوحش</title>
 <desc lang="ar">برنامج على القناة</desc>
 </programme>
-<programme start="20260308140000 +0000" stop="20260308141500 +0000" channel="MBC1">
+<programme start="20260308140000 +2000" stop="20260308141500 +0000" channel="MBC1">
 <title lang="ar">افطارنا غير</title>
 <desc lang="ar">برنامج على القناة</desc>
 </programme>
-<programme start="20260308154500 +0000" stop="20260308160000 +0000" channel="MBC1">
+<programme start="20260308154500 +2000" stop="20260308160000 +0000" channel="MBC1">
 <title lang="ar">مالك بالطويلة</title>
 <desc lang="ar">برنامج على القناة</desc>
 </programme>
-<programme start="20260308183000 +0000" stop="20260308184500 +0000" channel="MBC1">
+<programme start="20260308183000 +2000" stop="20260308184500 +0000" channel="MBC1">
 <title lang="ar">رامز ليفل الوحش</title>
 <desc lang="ar">برنامج على القناة</desc>
 </programme>
-<programme start="20260308020000 +0000" stop="20260308021500 +0000" channel="MBC1">
+<programme start="20260308020000 +2000" stop="20260308021500 +0000" channel="MBC1">
 <title lang="ar">رامز ليفل الوحش</title>
 <desc lang="ar">برنامج على القناة</desc>
 </programme>
-<programme start="20260308023000 +0000" stop="20260308024500 +0000" channel="MBC1">
+<programme start="20260308023000 +2000" stop="20260308024500 +0000" channel="MBC1">
 <title lang="ar">مالك بالطويلة</title>
 <desc lang="ar">برنامج على القناة</desc>
 </programme>
-<programme start="20260308030000 +0000" stop="20260308031500 +0000" channel="MBC1">
+<programme start="20260308030000 +2000" stop="20260308031500 +0000" channel="MBC1">
 <title lang="ar">افطارنا غير</title>
 <desc lang="ar">برنامج على القناة</desc>
 </programme>
-<programme start="20260308133000 +0000" stop="20260308134500 +0000" channel="MBC1">
+<programme start="20260308133000 +2000" stop="20260308134500 +0000" channel="MBC1">
 <title lang="ar">رامز ليفل الوحش</title>
 <desc lang="ar">برنامج على القناة</desc>
 </programme>
-<programme start="20260308140000 +0000" stop="20260308141500 +0000" channel="MBC1">
+<programme start="20260308140000 +2000" stop="20260308141500 +0000" channel="MBC1">
 <title lang="ar">افطارنا غير</title>
 <desc lang="ar">برنامج على القناة</desc>
 </programme>
-<programme start="20260308154500 +0000" stop="20260308160000 +0000" channel="MBC1">
+<programme start="20260308154500 +2000" stop="20260308160000 +0000" channel="MBC1">
 <title lang="ar">مالك بالطويلة</title>
 <desc lang="ar">برنامج على القناة</desc>
 </programme>
-<programme start="20260308183000 +0000" stop="20260308184500 +0000" channel="MBC1">
+<programme start="20260308183000 +2000" stop="20260308184500 +0000" channel="MBC1">
 <title lang="ar">رامز ليفل الوحش</title>
 <desc lang="ar">برنامج على القناة</desc>
 </programme>
-<programme start="20260308020000 +0000" stop="20260308021500 +0000" channel="MBC1">
+<programme start="20260308020000 +2000" stop="20260308021500 +0000" channel="MBC1">
 <title lang="ar">رامز ليفل الوحش</title>
 <desc lang="ar">برنامج على القناة</desc>
 </programme>
+  
 
 <programme start="20250719000000 +0200" stop="20250719010000 +0200" channel="الثانية">
 <title>مسلسل</title>
