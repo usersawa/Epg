@@ -23,102 +23,288 @@
 </channel>
 <tv>
 
-<programme start="20260308183000 +2000" stop="20260308184500 +0000" channel="MBC1">
-<title lang="ar">رامز ليفل الوحش</title>
-<desc lang="ar">برنامج على القناة</desc>
+
+
+<!-- DAY 1 -->
+<programme start="20260309060000 +0200" stop="20260309063000 +0200" channel="MBC1">
+<title lang="ar">Yawmiyyat Rajol Motazawwej</title>
+<desc lang="ar">مسلسل كوميدي اجتماعي.</desc>
 </programme>
-<programme start="20260308020000 +2000" stop="20260308021500 +0000" channel="MBC1">
-<title lang="ar">رامز ليفل الوحش</title>
-<desc lang="ar">برنامج على القناة</desc>
+
+<programme start="20260309063000 +0200" stop="20260309070000 +0200" channel="MBC1">
+<title lang="ar">Ramez Level El Wahsh</title>
+<desc lang="ar">برنامج مقالب.</desc>
 </programme>
-<programme start="20260308023000 +2000" stop="20260308024500 +0000" channel="MBC1">
-<title lang="ar">مالك بالطويلة</title>
-<desc lang="ar">برنامج على القناة</desc>
+
+<programme start="20260309070000 +0200" stop="20260309073000 +0200" channel="MBC1">
+<title lang="ar">Jak Al Elm</title>
+<desc lang="ar">مسلسل كوميدي.</desc>
 </programme>
-<programme start="20260308030000 +2000" stop="20260308031500 +0000" channel="MBC1">
-<title lang="ar">افطارنا غير</title>
-<desc lang="ar">برنامج على القناة</desc>
+
+<programme start="20260309073000 +0200" stop="20260309080000 +0200" channel="MBC1">
+<title lang="ar">Akher Kalam</title>
+<desc lang="ar">برنامج حواري.</desc>
 </programme>
-<programme start="20260308133000 +2000" stop="20260308134500 +0000" channel="MBC1">
-<title lang="ar">رامز ليفل الوحش</title>
-<desc lang="ar">برنامج على القناة</desc>
+
+<programme start="20260309080000 +0200" stop="20260309090000 +0200" channel="MBC1">
+<title lang="ar">Al Ghommaida</title>
+<desc lang="ar">مسلسل درامي.</desc>
 </programme>
-<programme start="20260308140000 +2000" stop="20260308141500 +0000" channel="MBC1">
-<title lang="ar">افطارنا غير</title>
-<desc lang="ar">برنامج على القناة</desc>
+
+<programme start="20260309090000 +0200" stop="20260309100000 +0200" channel="MBC1">
+<title lang="ar">Share' Al A'sha</title>
+<desc lang="ar">دراما اجتماعية.</desc>
 </programme>
-<programme start="20260308154500 +2000" stop="20260308160000 +0000" channel="MBC1">
-<title lang="ar">مالك بالطويلة</title>
-<desc lang="ar">برنامج على القناة</desc>
+
+<programme start="20260309100000 +0200" stop="20260309110000 +0200" channel="MBC1">
+<title lang="ar">Kehelan</title>
+<desc lang="ar">مسلسل درامي.</desc>
 </programme>
-<programme start="20260308183000 +2000" stop="20260308184500 +0000" channel="MBC1">
-<title lang="ar">رامز ليفل الوحش</title>
-<desc lang="ar">برنامج على القناة</desc>
+
+<programme start="20260309110000 +0200" stop="20260309120000 +0200" channel="MBC1">
+<title lang="ar">Efrag</title>
+<desc lang="ar">دراما اجتماعية.</desc>
 </programme>
-<programme start="20260308020000 +2000" stop="20260308021500 +0000" channel="MBC1">
-<title lang="ar">رامز ليفل الوحش</title>
-<desc lang="ar">برنامج على القناة</desc>
+
+<programme start="20260309120000 +0200" stop="20260309130000 +0200" channel="MBC1">
+<title lang="ar">Iftarona Ghayr</title>
+<desc lang="ar">برنامج طبخ.</desc>
 </programme>
-<programme start="20260308023000 +2000" stop="20260308024500 +0000" channel="MBC1">
-<title lang="ar">مالك بالطويلة</title>
-<desc lang="ar">برنامج على القناة</desc>
+
+<programme start="20260309130000 +0200" stop="20260309140000 +0200" channel="MBC1">
+<title lang="ar">Rehla Fi Seerat Al Nabi</title>
+<desc lang="ar">برنامج ديني.</desc>
 </programme>
-<programme start="20260308030000 +2000" stop="20260308031500 +0000" channel="MBC1">
-<title lang="ar">افطارنا غير</title>
-<desc lang="ar">برنامج على القناة</desc>
+
+<programme start="20260309140000 +0200" stop="20260309150000 +0200" channel="MBC1">
+<title lang="ar">Akher Kalam</title>
+<desc lang="ar">برنامج حواري.</desc>
 </programme>
-<programme start="20260308133000 +2000" stop="20260308134500 +0000" channel="MBC1">
-<title lang="ar">رامز ليفل الوحش</title>
-<desc lang="ar">برنامج على القناة</desc>
+
+<programme start="20260309150000 +0200" stop="20260309160000 +0200" channel="MBC1">
+<title lang="ar">Nadeena</title>
+<desc lang="ar">برنامج رياضي.</desc>
 </programme>
-<programme start="20260308140000 +2000" stop="20260308141500 +0000" channel="MBC1">
-<title lang="ar">افطارنا غير</title>
-<desc lang="ar">برنامج على القناة</desc>
+
+<programme start="20260309160000 +0200" stop="20260309170000 +0200" channel="MBC1">
+<title lang="ar">Jak Al Elm</title>
+<desc lang="ar">إعادة.</desc>
 </programme>
-<programme start="20260308154500 +2000" stop="20260308160000 +0000" channel="MBC1">
-<title lang="ar">مالك بالطويلة</title>
-<desc lang="ar">برنامج على القناة</desc>
+
+<programme start="20260309170000 +0200" stop="20260309180000 +0200" channel="MBC1">
+<title lang="ar">Al Ghommaida</title>
+<desc lang="ar">إعادة.</desc>
 </programme>
-<programme start="20260308183000 +2000" stop="20260308184500 +0000" channel="MBC1">
-<title lang="ar">رامز ليفل الوحش</title>
-<desc lang="ar">برنامج على القناة</desc>
+
+<programme start="20260309180000 +0200" stop="20260309190000 +0200" channel="MBC1">
+<title lang="ar">Share' Al A'sha</title>
+<desc lang="ar">إعادة.</desc>
 </programme>
-<programme start="20260308020000 +2000" stop="20260308021500 +0000" channel="MBC1">
-<title lang="ar">رامز ليفل الوحش</title>
-<desc lang="ar">برنامج على القناة</desc>
+
+<programme start="20260309190000 +0200" stop="20260309200000 +0200" channel="MBC1">
+<title lang="ar">Kehelan</title>
+<desc lang="ar">حلقة جديدة.</desc>
 </programme>
+
+<programme start="20260309200000 +0200" stop="20260309210000 +0200" channel="MBC1">
+<title lang="ar">Efrag</title>
+<desc lang="ar">حلقة جديدة.</desc>
+</programme>
+
+<programme start="20260309210000 +0200" stop="20260309220000 +0200" channel="MBC1">
+<title lang="ar">Akher Kalam</title>
+<desc lang="ar">برنامج حواري.</desc>
+</programme>
+
+<programme start="20260309220000 +0200" stop="20260309230000 +0200" channel="MBC1">
+<title lang="ar">Yawmiyyat Rajol Motazawwej</title>
+<desc lang="ar">إعادة.</desc>
+</programme>
+
+<programme start="20260309230000 +0200" stop="20260310000000 +0200" channel="MBC1">
+<title lang="ar">Ramez Level El Wahsh</title>
+<desc lang="ar">إعادة.</desc>
+</programme>
+
+
+<!-- DAY 2 -->
+<programme start="20260310060000 +0200" stop="20260310070000 +0200" channel="MBC1">
+<title lang="ar">Yawmiyyat Rajol Motazawwej</title>
+<desc lang="ar">مسلسل.</desc>
+</programme>
+
+<programme start="20260310070000 +0200" stop="20260310080000 +0200" channel="MBC1">
+<title lang="ar">Jak Al Elm</title>
+<desc lang="ar">مسلسل.</desc>
+</programme>
+
+<programme start="20260310080000 +0200" stop="20260310090000 +0200" channel="MBC1">
+<title lang="ar">Al Ghommaida</title>
+<desc lang="ar">مسلسل.</desc>
+</programme>
+
+<programme start="20260310090000 +0200" stop="20260310100000 +0200" channel="MBC1">
+<title lang="ar">Share' Al A'sha</title>
+<desc lang="ar">دراما.</desc>
+</programme>
+
+<programme start="20260310100000 +0200" stop="20260310110000 +0200" channel="MBC1">
+<title lang="ar">Kehelan</title>
+<desc lang="ar">مسلسل.</desc>
+</programme>
+
+<programme start="20260310110000 +0200" stop="20260310120000 +0200" channel="MBC1">
+<title lang="ar">Efrag</title>
+<desc lang="ar">مسلسل.</desc>
+</programme>
+
+<programme start="20260310120000 +0200" stop="20260310130000 +0200" channel="MBC1">
+<title lang="ar">Iftarona Ghayr</title>
+<desc lang="ar">برنامج طبخ.</desc>
+</programme>
+
+<programme start="20260310130000 +0200" stop="20260310140000 +0200" channel="MBC1">
+<title lang="ar">Rehla Fi Seerat Al Nabi</title>
+<desc lang="ar">برنامج ديني.</desc>
+</programme>
+
+<programme start="20260310140000 +0200" stop="20260310150000 +0200" channel="MBC1">
+<title lang="ar">Akher Kalam</title>
+<desc lang="ar">برنامج.</desc>
+</programme>
+
+<programme start="20260310150000 +0200" stop="20260310160000 +0200" channel="MBC1">
+<title lang="ar">Nadeena</title>
+<desc lang="ar">برنامج رياضي.</desc>
+</programme>
+
+<programme start="20260310160000 +0200" stop="20260310170000 +0200" channel="MBC1">
+<title lang="ar">Jak Al Elm</title>
+<desc lang="ar">إعادة.</desc>
+</programme>
+
+<programme start="20260310170000 +0200" stop="20260310180000 +0200" channel="MBC1">
+<title lang="ar">Al Ghommaida</title>
+<desc lang="ar">إعادة.</desc>
+</programme>
+
+<programme start="20260310180000 +0200" stop="20260310190000 +0200" channel="MBC1">
+<title lang="ar">Share' Al A'sha</title>
+<desc lang="ar">إعادة.</desc>
+</programme>
+
+<programme start="20260310190000 +0200" stop="20260310200000 +0200" channel="MBC1">
+<title lang="ar">Kehelan</title>
+<desc lang="ar">حلقة جديدة.</desc>
+</programme>
+
+<programme start="20260310200000 +0200" stop="20260310210000 +0200" channel="MBC1">
+<title lang="ar">Efrag</title>
+<desc lang="ar">حلقة جديدة.</desc>
+</programme>
+
+<programme start="20260310210000 +0200" stop="20260310220000 +0200" channel="MBC1">
+<title lang="ar">Akher Kalam</title>
+<desc lang="ar">برنامج.</desc>
+</programme>
+
+<programme start="20260310220000 +0200" stop="20260310230000 +0200" channel="MBC1">
+<title lang="ar">Yawmiyyat Rajol Motazawwej</title>
+<desc lang="ar">إعادة.</desc>
+</programme>
+
+
+<!-- DAY 3 -->
+<programme start="20260311060000 +0200" stop="20260311070000 +0200" channel="MBC1">
+<title lang="ar">Yawmiyyat Rajol Motazawwej</title>
+<desc lang="ar">مسلسل.</desc>
+</programme>
+
+<programme start="20260311070000 +0200" stop="20260311080000 +0200" channel="MBC1">
+<title lang="ar">Jak Al Elm</title>
+<desc lang="ar">مسلسل.</desc>
+</programme>
+
+<programme start="20260311080000 +0200" stop="20260311090000 +0200" channel="MBC1">
+<title lang="ar">Al Ghommaida</title>
+<desc lang="ar">مسلسل.</desc>
+</programme>
+
+<programme start="20260311090000 +0200" stop="20260311100000 +0200" channel="MBC1">
+<title lang="ar">Share' Al A'sha</title>
+<desc lang="ar">دراما.</desc>
+</programme>
+
+<programme start="20260311100000 +0200" stop="20260311110000 +0200" channel="MBC1">
+<title lang="ar">Kehelan</title>
+<desc lang="ar">مسلسل.</desc>
+</programme>
+
+<programme start="20260311110000 +0200" stop="20260311120000 +0200" channel="MBC1">
+<title lang="ar">Efrag</title>
+<desc lang="ar">مسلسل.</desc>
+</programme>
+
+<programme start="20260311120000 +0200" stop="20260311130000 +0200" channel="MBC1">
+<title lang="ar">Iftarona Ghayr</title>
+<desc lang="ar">برنامج طبخ.</desc>
+</programme>
+
+<programme start="20260311130000 +0200" stop="20260311140000 +0200" channel="MBC1">
+<title lang="ar">Rehla Fi Seerat Al Nabi</title>
+<desc lang="ar">برنامج ديني.</desc>
+</programme>
+
+<programme start="20260311140000 +0200" stop="20260311150000 +0200" channel="MBC1">
+<title lang="ar">Akher Kalam</title>
+<desc lang="ar">برنامج.</desc>
+</programme>
+
+<programme start="20260311150000 +0200" stop="20260311160000 +0200" channel="MBC1">
+<title lang="ar">Nadeena</title>
+<desc lang="ar">برنامج رياضي.</desc>
+</programme>
+
+<programme start="20260311160000 +0200" stop="20260311170000 +0200" channel="MBC1">
+<title lang="ar">Jak Al Elm</title>
+<desc lang="ar">إعادة.</desc>
+</programme>
+
+<programme start="20260311170000 +0200" stop="20260311180000 +0200" channel="MBC1">
+<title lang="ar">Al Ghommaida</title>
+<desc lang="ar">إعادة.</desc>
+</programme>
+
+<programme start="20260311180000 +0200" stop="20260311190000 +0200" channel="MBC1">
+<title lang="ar">Share' Al A'sha</title>
+<desc lang="ar">إعادة.</desc>
+</programme>
+
+<programme start="20260311190000 +0200" stop="20260311200000 +0200" channel="MBC1">
+<title lang="ar">Kehelan</title>
+<desc lang="ar">حلقة جديدة.</desc>
+</programme>
+
+<programme start="20260311200000 +0200" stop="20260311210000 +0200" channel="MBC1">
+<title lang="ar">Efrag</title>
+<desc lang="ar">حلقة جديدة.</desc>
+</programme>
+
+<programme start="20260311210000 +0200" stop="20260311220000 +0200" channel="MBC1">
+<title lang="ar">Akher Kalam</title>
+<desc lang="ar">برنامج.</desc>
+</programme>
+
+<programme start="20260311220000 +0200" stop="20260311230000 +0200" channel="MBC1">
+<title lang="ar">Yawmiyyat Rajol Motazawwej</title>
+<desc lang="ar">إعادة.</desc>
+</programme>
+
+
+
+
   
 
-<programme start="20250719000000 +0200" stop="20250719010000 +0200" channel="الثانية">
-<title>مسلسل</title>
-</programme>
-<programme start="20250719010000 +0200" stop="20250719020000 +0200" channel="الثانية">
-<title>مسلسل</title>
-</programme>
-<programme start="20250719020000 +0200" stop="20250719030000 +0200" channel="الثانية">
-<title>مسلسل</title>
-</programme>
-<programme start="20250719030000 +0200" stop="20250719040000 +0200" channel="الثانية">
-<title>مسلسل</title>
-</programme>
-<programme start="20250719040000 +0200" stop="20250719050000 +0200" channel="الثانية">
-<title>مسلسل</title>
-</programme>
-<programme start="20250719050000 +0200" stop="20250719060000 +0200" channel="الثانية">
-<title>مسلسل</title>
-</programme>
-<programme start="20250719060000 +0200" stop="20250719070000 +0200" channel="الثانية">
-<title>مسلسل</title>
-</programme>
-<programme start="20250719070000 +0200" stop="20250719080000 +0200" channel="الثانية">
-<title>مسلسل</title>
-</programme>
-<programme start="20250719080000 +0200" stop="20250719090000 +0200" channel="الثانية">
-<title>مسلسل</title>
-</programme>
-<programme start="20250719090000 +0200" stop="20250719100000 +0200" channel="الثانية">
-<title>مسلسل</title>
-</programme>
 <programme start="20250719100000 +0200" stop="20250719110000 +0200" channel="الثانية">
 <title>مسلسل</title>
 </programme>
